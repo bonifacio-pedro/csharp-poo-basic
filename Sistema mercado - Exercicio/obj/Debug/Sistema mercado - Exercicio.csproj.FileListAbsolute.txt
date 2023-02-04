@@ -1,0 +1,8 @@
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\bin\Debug\Sistema mercado - Exercicio.exe.config
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\bin\Debug\Sistema mercado - Exercicio.exe
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\bin\Debug\Sistema mercado - Exercicio.pdb
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\obj\Debug\Sistema mercado - Exercicio.csproj.AssemblyReference.cache
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\obj\Debug\Sistema mercado - Exercicio.csproj.SuggestedBindingRedirects.cache
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\obj\Debug\Sistema mercado - Exercicio.csproj.CoreCompileInputs.cache
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\obj\Debug\Sistema mercado - Exercicio.exe
+D:\Pedro freela\Curso C#\Seção 3\Aula49\Sistema mercado - Exercicio\Sistema mercado - Exercicio\obj\Debug\Sistema mercado - Exercicio.pdb
